@@ -12,9 +12,10 @@ Please double check your work, create/run any tests that you believe are necessa
 
 -------<begin instrument prompt>------
 
+Please create a flashcard system in study/flashcards.py that uses the terms in terms.py
+in the terminal it will randomly select 
 
-
-
+create entrophy by adding all of the terms to an arry then take a string as user input then that take every letter and corespond it to a number in the alphabet using a alphebet shift cypher with a key of 5 and use the fibinachi sequence, find the golden ratio, then round up to the nearest whole number to select from the place in the array
 
 -------<end instrument prompt>------
 

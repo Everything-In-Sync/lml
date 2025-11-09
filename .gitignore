@@ -1,0 +1,4 @@
+env
+.env
+ignore
+.DS_Store
